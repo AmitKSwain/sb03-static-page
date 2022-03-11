@@ -1,7 +1,7 @@
 # Getting Started
 
 ### Reference Documentation
-Ptoject to explain static pages through springboot
+Project to explain static pages through springboot
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.6.4/maven-plugin/reference/html/)
